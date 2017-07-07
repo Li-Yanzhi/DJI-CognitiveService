@@ -1,6 +1,8 @@
 # DJI-CognitiveService
 
-Demo of Using [Microsoft Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/) in DJI Drones.
+Demo of Using [Microsoft Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/) in DJI Drones，this project is based on [DJI UI Library](https://github.com/dji-sdk/Mobile-UILibrary-Android).
+
+![UI Screenshot](./art/dji1.png)
 
 Features:
 
@@ -11,4 +13,6 @@ Features:
 
 To use this demo, you should apply to corresponding key in Congitive Serivce. For Custom Vision Service, you should upload photos to pre-train your model.
 
-This project is based on [DJI UI Library](https://github.com/dji-sdk/Mobile-UILibrary-Android).
+![Custom Vision Service Portal](./art/dji2.png)
+
+
